@@ -1,6 +1,6 @@
 public class ProgramaInformatikoa{
     public static void main (String[] args){
-        String ald1= "lehengo belaunaldia";
+        String ald1= "lehengo belaunaldiaaaaaaaa";
         String ald2= "bigarren belaunaldia";
         System.out.println("1.Programa informatikoan 6 puntu desberdin daude: ");
         System.out.print("1.puntua");
