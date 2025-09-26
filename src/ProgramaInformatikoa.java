@@ -1,6 +1,6 @@
 public class ProgramaInformatikoa{
     public static void main (String[] args){
-        public static final String GORRIA = "\u001B[31m";
+        public static final String GORRIA = "\u001B[32m";
         public static final String RESET = "\u001B[0m";
         String ald1= "lehengo belaunaldiaaaaaaaa";
         String ald2= "bigarren belaunaldia";
