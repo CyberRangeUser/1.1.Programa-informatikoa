@@ -1,8 +1,10 @@
 public class ProgramaInformatikoa{
     public static void main (String[] args){
+        public static final String GORRIA = "\u001B[31m";
+        public static final String RESET = "\u001B[0m";
         String ald1= "lehengo belaunaldiaaaaaaaa";
         String ald2= "bigarren belaunaldia";
-        System.out.println("1.Programa informatikoan 6 puntu desberdin daude: ");
+        System.out.println(GORRIA+"1.Programa informatikoan 6 puntu desberdin daude: "+RESET);
         System.out.print("1.puntua");
         System.out.print("\n");
         System.out.print("2.puntua");
